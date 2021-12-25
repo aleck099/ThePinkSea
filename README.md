@@ -1,3 +1,3 @@
-##The Pink Sea
+## The Pink Sea ##
 
 Still in development
