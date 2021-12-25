@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "thepinksea:pink_sandstone_slab"
+    }
+  },
+  "result": {
+    "item": "thepinksea:chiseled_pink_sandstone"
+  }
+}

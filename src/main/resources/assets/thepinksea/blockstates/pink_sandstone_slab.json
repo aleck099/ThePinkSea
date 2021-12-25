@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "thepinksea:block/pink_sandstone_slab"
+    },
+    "type=double": {
+      "model": "thepinksea:block/pink_sandstone"
+    },
+    "type=top": {
+      "model": "thepinksea:block/pink_sandstone_slab_top"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "thepinksea:block/pink_sand"
+      },
+      {
+        "model": "thepinksea:block/pink_sand",
+        "y": 90
+      },
+      {
+        "model": "thepinksea:block/pink_sand",
+        "y": 180
+      },
+      {
+        "model": "thepinksea:block/pink_sand",
+        "y": 270
+      }
+    ]
+  }
+}

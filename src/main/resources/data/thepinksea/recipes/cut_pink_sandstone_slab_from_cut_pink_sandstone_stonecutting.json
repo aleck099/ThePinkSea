@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "thepinksea:cut_pink_sandstone"
+  },
+  "result": "thepinksea:cut_pink_sandstone_slab",
+  "count": 2
+}

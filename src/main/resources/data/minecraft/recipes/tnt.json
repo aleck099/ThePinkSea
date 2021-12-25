@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "#X#",
+    "X#X"
+  ],
+  "key": {
+    "#": [
+      {
+        "item": "thepinksea:pink_sand"
+      }
+    ],
+    "X": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "minecraft:tnt"
+  }
+}

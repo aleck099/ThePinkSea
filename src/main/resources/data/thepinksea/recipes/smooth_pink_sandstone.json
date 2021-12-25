@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "thepinksea:pink_sandstone"
+  },
+  "result": "thepinksea:smooth_pink_sandstone",
+  "experience": 0.1,
+  "cookingtime": 200
+}

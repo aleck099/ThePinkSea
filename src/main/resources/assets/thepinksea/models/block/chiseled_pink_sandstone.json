@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "thepinksea:block/pink_sandstone_top",
+    "side": "thepinksea:block/chiseled_pink_sandstone"
+  }
+}
