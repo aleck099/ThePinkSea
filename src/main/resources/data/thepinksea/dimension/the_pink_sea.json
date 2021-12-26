@@ -1,0 +1,13 @@
+{
+  "type": "thepinksea:the_pink_sea",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 824776634,
+    "settings": "thepinksea:the_pink_sea",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "thepinksea:the_pink_sea"
+    }
+  }
+}
+

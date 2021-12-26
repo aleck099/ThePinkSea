@@ -16,5 +16,6 @@ public class ModMain implements ModInitializer {
 
 		LOGGER.info("The Pink Sea 0.0.1");
 		Blocks.registerAll();
+		Sounds.registerSounds();
 	}
 }

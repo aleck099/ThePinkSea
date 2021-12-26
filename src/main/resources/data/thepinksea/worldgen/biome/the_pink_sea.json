@@ -1,0 +1,26 @@
+{
+  "temperature": 1,
+  "downfall": 0,
+  "precipitation": "rain",
+  "temperature_modifier": "none",
+  "category": "ocean",
+  "creature_spawn_probability": 0,
+  "effects": {
+    "sky_color": 16369125,
+    "fog_color": 15832535,
+    "water_color": 15244229,
+    "water_fog_color": 16369125,
+    "grass_color_modifier": "none",
+    "music": {
+      "sound": "thepinksea:music.the_pink_sea",
+      "min_delay": 12000,
+      "max_delay": 24000,
+      "replace_current_music": false
+    }
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {},
+  "features": []
+}
+
