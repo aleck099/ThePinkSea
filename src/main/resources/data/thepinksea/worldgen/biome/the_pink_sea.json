@@ -11,6 +11,12 @@
     "water_color": 15244229,
     "water_fog_color": 16369125,
     "grass_color_modifier": "none",
+    "mood_sound": {
+      "sound": "thepinksea:music.the_pink_sea",
+      "tick_delay": 1000,
+      "block_search_extent": 16,
+      "offset": 0
+    },
     "music": {
       "sound": "thepinksea:music.the_pink_sea",
       "min_delay": 12000,

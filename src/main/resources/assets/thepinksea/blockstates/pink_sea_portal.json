@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "thepinksea:block/pink_sea_portal",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "thepinksea:block/pink_sea_portal",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "thepinksea:block/pink_sea_portal"
+    },
+    "facing=west": {
+      "model": "thepinksea:block/pink_sea_portal",
+      "y": 90
+    }
+  }
+}
+

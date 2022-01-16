@@ -20,9 +20,13 @@
   "entrypoints": {
     "main": [
       "net.accel.thepinksea.ModMain"
+    ],
+    "client": [
+      "net.accel.thepinksea.ModClient"
     ]
   },
   "mixins": [
+    "thepinksea.mixins.json"
   ],
 
   "depends": {
@@ -33,5 +37,6 @@
   },
   "suggests": {
     "another-mod": "*"
-  }
+  },
+  "accessWidener": "thepinksea.accesswidener"
 }

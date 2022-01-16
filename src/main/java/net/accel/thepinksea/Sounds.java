@@ -6,6 +6,7 @@ import net.minecraft.util.registry.Registry;
 
 public class Sounds {
     public static SoundEvent MUSIC;
+    public static SoundEvent TELEPORT;
 
     private static SoundEvent createAndRegister(String id) {
         var identifier = new Identifier(ModMain.ID, id);
@@ -16,5 +17,6 @@ public class Sounds {
 
     public static void registerSounds() {
         MUSIC = createAndRegister("music.the_pink_sea");
+        TELEPORT = createAndRegister("music.teleport");
     }
 }

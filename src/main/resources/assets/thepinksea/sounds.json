@@ -3,5 +3,10 @@
     "sounds": [
       "thepinksea:music2"
     ]
+  },
+  "sound.teleport": {
+    "sounds": [
+      "thepinksea:teleport"
+    ]
   }
 }
